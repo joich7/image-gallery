@@ -41,3 +41,11 @@ button {
   float: left;
   cursor: pointer;
 }
+
+img{
+
+  border-radius: 20%;
+}
+.thumb-bar img:hover{
+  opacity: 0.4;
+}
